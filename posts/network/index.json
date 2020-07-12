@@ -71,7 +71,7 @@
             "type": "link",
             "icon": "?",
             "target": "network/account",
-            "text": "查看账户信息"
+            "text": "查看校园网账户信息"
         }
     ]
 }
