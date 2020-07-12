@@ -9,6 +9,28 @@
         },
         {
             "type": "header",
+            "text": "接入限制"
+        },
+        {
+            "type": "paragraph",
+            "text": "一个账号最多同时一部手机和一台电脑登录（iPad 算手机），登录超过限制后之前登录的会被迫下线。如果你有多台移动设备可以用电脑登录后开热点，开热点是没有设备台数限制的，无线、有线接入均可。"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "network/wireless",
+            "text": "无线接入",
+            "description": "有木有 WiFi"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "network/wired",
+            "text": "有线接入",
+            "description": "打游戏必备"
+        },
+        {
+            "type": "header",
             "text": "运营商"
         },
         {
@@ -38,20 +60,6 @@
         {
             "type": "paragraph",
             "text": "使用校园网的时候不要使用自定义的 DNS，否则大量的网站会打不开。如果你不知道这是什么但上网没有问题就不要关心。如果你遇到了不能打开网页但能使用 QQ，可以尝试将 DNS 设置为自动获取。还有一点，办公楼的有线网络是免费使用的，只需要登录账号即可。"
-        },
-        {
-            "type": "link",
-            "icon": "?",
-            "target": "network/wireless",
-            "text": "WiFi",
-            "description": "有木有 WiFi"
-        },
-        {
-            "type": "link",
-            "icon": "?",
-            "target": "network/wired",
-            "text": "有线",
-            "description": "打游戏必备"
         },
         {
             "type": "link",
