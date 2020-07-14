@@ -1,0 +1,68 @@
+{
+    "author": "凌超",
+    "lastModified": "2020年7月14日",
+    "title": "一卡通",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "学校为每位同学都准备了校园一卡通便于校内的消费，生活。新生在入学报到时，一卡通会和住宿证都物件一同领取。"
+        },
+        {
+            "type": "header",
+            "text": "运营商"
+        },
+        {
+            "type": "paragraph",
+            "text": "中国工商银行"
+        },
+        {
+            "type": "header",
+            "text": "提醒"
+        },
+        {
+            "type": "paragraph",
+            "text": "如若丢失希望你尽快补办，防止被盗刷(补办新卡原卡将会失效)"
+        },
+        {
+            "type": "header",
+            "text": "提醒"
+        },
+        {
+            "type": "paragraph",
+            "text": "本卡上的照片为高中学校所拍，很遗憾不能更换照片"
+        },
+        {
+            "type": "header",
+            "text": "提醒"
+        },
+        {
+            "type": "paragraph",
+            "text": "本卡在学校有广泛的用途，尽量随身携带并避免丢失"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "stu-card/method",
+            "text": "缴费方式"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "stu-card/use",
+            "text": "使用场景"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "stu-card/surprise",
+            "text": "饭补/水补",
+            "description": "不定期的小惊喜"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "stu-card/new-card",
+            "text": "丢失补办"
+        }
+    ]
+}
