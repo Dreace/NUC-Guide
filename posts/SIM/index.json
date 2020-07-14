@@ -8,20 +8,6 @@
             "text": "中北大学的三大运行商即移动，联通和电信均为中北大学在校生提供了优惠套餐，每天合约规则会略有改动，可以自行选择是否办理。如有归属地为太原的SIM卡可直接联系客服办理，否则需要开新卡"
         },
         {
-            "type": "link",
-            "icon": "?",
-            "target": "SIM/method",
-            "text": "开通渠道",
-            "description": "如何享受优惠套餐"
-        },
-        {
-            "type": "link",
-            "icon": "?",
-            "target": "SIM/charge",
-            "text": "套餐资费",
-            "description": "花多少钱啊QAQ"
-        },
-        {
             "type": "header",
             "text": "运营商"
         },
