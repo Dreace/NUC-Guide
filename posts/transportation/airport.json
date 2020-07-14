@@ -1,0 +1,28 @@
+{
+    "author": "Dreace",
+    "lastModified": "2020年7月14日",
+    "title": "往返机场",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "中北到武宿机场 40 公里左右"
+        },
+        {
+            "type": "header",
+            "text": "公交"
+        },
+        {
+            "type": "paragraph",
+            "text": "乘坐公交车需要两个小时，票价十三元（需要乘坐机场线）。"
+        },
+
+        {
+            "type": "header",
+            "text": "打车"
+        },
+        {
+            "type":"paragraph",
+            "text":"打车需要四十五分钟左右，不打表出租车和私营车大概四十元/人，网约车在一百元左右。"
+        }
+    ]
+}
