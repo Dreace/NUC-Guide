@@ -1,0 +1,59 @@
+{
+    "author": "凌超",
+    "lastModified": "2020年7月26日",
+    "title": "一卡通",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "图书馆坐落在校园中央，馆舍始建于2002年，完工于2006年，学校图书馆馆舍总面积46707.48平方米，馆藏纸质图书230多万册，电子图书近200万册。"
+        },
+        {
+            "type": "header",
+            "text": "规模"
+        },
+        {
+            "type": "paragraph",
+            "text": "学校图书馆馆舍总面积46707.48平方米，在山西省各大高校图书馆馆舍面积中最大，其中校图书馆总面积45007.48平方米，各学院资料室1700平方米。现有阅览室35个，设有阅览座位6114个。"
+        },
+        {
+            "type": "header",
+            "text": "提醒"
+        },
+        {
+            "type": "paragraph",
+            "text": "图书股禁止喧哗，请大家合力为图书馆打造一个安静的学习环境"
+        },
+        {
+            "type": "header",
+            "text": "日常"
+        },
+        {
+            "type": "paragraph",
+            "text": "同学们可以前往图书馆借阅图书或者自习"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "library/time",
+            "text": "营业时间"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "library/book",
+            "text": "借书/还书"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "library/room",
+            "text": "自习室"
+        },
+        {
+            "type": "link",
+            "icon": "?",
+            "target": "library/notice",
+            "text": "注意事项"
+        }
+    ]
+}
