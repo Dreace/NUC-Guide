@@ -32,10 +32,12 @@
             "text": "同学们可以前往图书馆借阅图书或者自习"
         },
         {
-            "type": "link",
-            "icon": "?",
-            "target": "library/time",
-            "text": "营业时间"
+            "type": "header",
+            "text": "开闭馆时间"
+        },
+        {
+            "type": "paragraph",
+            "text": "图书馆于每天早六点到晚十点开放。"
         },
         {
             "type": "link",
