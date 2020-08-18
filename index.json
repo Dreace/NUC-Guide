@@ -1,0 +1,32 @@
+[
+    {
+        "category": "通用",
+        "list": [
+            {
+                "text": "交通出行",
+                "icon": "*",
+                "url": "transportation/index.json"
+            },
+            {
+                "text": "校园网",
+                "icon": "*",
+                "url": "network/index.json"
+            },
+            {
+                "text": "图书馆",
+                "icon": "*",
+                "url": "library/index.json"
+            },
+            {
+                "text": "一卡通",
+                "icon": "*",
+                "url": "stu-card/index.json"
+            },
+            {
+                "text": "SIM 卡",
+                "icon": "*",
+                "url": "SIM/index.json"
+            }
+        ]
+    }
+]
