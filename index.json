@@ -5,27 +5,27 @@
             {
                 "text": "交通出行",
                 "icon": "*",
-                "url": "transportation/index.json"
+                "url": "transportation/index"
             },
             {
                 "text": "校园网",
                 "icon": "*",
-                "url": "network/index.json"
+                "url": "network/index"
             },
             {
                 "text": "图书馆",
                 "icon": "*",
-                "url": "library/index.json"
+                "url": "library/index"
             },
             {
                 "text": "一卡通",
                 "icon": "*",
-                "url": "stu-card/index.json"
+                "url": "stu-card/index"
             },
             {
                 "text": "SIM 卡",
                 "icon": "*",
-                "url": "SIM/index.json"
+                "url": "SIM/index"
             }
         ]
     }
