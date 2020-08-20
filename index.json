@@ -4,27 +4,27 @@
         "list": [
             {
                 "text": "交通出行",
-                "icon": "*",
+                "icon": "images/icon/transportation.svg",
                 "url": "transportation/index"
             },
             {
                 "text": "校园网",
-                "icon": "*",
+                "icon": "images/icon/network.svg",
                 "url": "network/index"
             },
             {
                 "text": "图书馆",
-                "icon": "*",
+                "icon": "images/icon/library.svg",
                 "url": "library/index"
             },
             {
                 "text": "一卡通",
-                "icon": "*",
+                "icon": "images/icon/stu-card.svg",
                 "url": "stu-card/index"
             },
             {
                 "text": "SIM 卡",
-                "icon": "*",
+                "icon": "images/icon/SIM.svg",
                 "url": "SIM/index"
             }
         ]
