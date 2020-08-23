@@ -1,0 +1,32 @@
+[
+    {
+        "category": "通用",
+        "list": [
+            {
+                "text": "交通出行",
+                "icon": "images/icon/transportation.svg",
+                "url": "transportation/index"
+            },
+            {
+                "text": "校园网",
+                "icon": "images/icon/network.svg",
+                "url": "network/index"
+            },
+            {
+                "text": "图书馆",
+                "icon": "images/icon/library.svg",
+                "url": "library/index"
+            },
+            {
+                "text": "一卡通",
+                "icon": "images/icon/stu-card.svg",
+                "url": "stu-card/index"
+            },
+            {
+                "text": "SIM 卡",
+                "icon": "images/icon/SIM.svg",
+                "url": "SIM/index"
+            }
+        ]
+    }
+]
