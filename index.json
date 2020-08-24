@@ -26,6 +26,11 @@
                 "text": "SIM 卡",
                 "icon": "images/icon/SIM.svg",
                 "url": "SIM/index"
+            },
+            {
+                "text": "食堂介绍",
+                "icon": "images/icon/food.svg",
+                "url": "food/index"
             }
         ]
     }
