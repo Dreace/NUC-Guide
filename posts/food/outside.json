@@ -1,0 +1,47 @@
+{
+    "author": "凌超",
+    "lastModified": "2020年8月24日",
+    "title": "校外餐馆",
+    "content": [
+        {
+            "type": "header",
+            "text": "重要！"
+        },
+        {
+            "type": "paragraph",
+            "text": "此页介绍的均在校外，疫情期间请严格遵守学校防疫规定！"
+        },
+        {
+            "type": "header",
+            "text": "提醒"
+        },
+        {
+            "type": "paragraph",
+            "text": "校外饭馆安全卫生无保障，请谨慎就餐。"
+        },
+        {
+            "type": "header",
+            "text": "七道门，五道门"
+        },
+        {
+            "type": "paragraph",
+            "text": "东区七道门，五道门外有较多餐厅，价格不是很贵，小吃类居多。"
+        },
+        {
+            "type": "header",
+            "text": "百业"
+        },
+        {
+            "type": "paragraph",
+            "text": "位于中北酒店楼下，价格较高，看起来比较卫生。"
+        },
+        {
+            "type": "header",
+            "text": "一道门"
+        },
+        {
+            "type": "paragraph",
+            "text": "一道门外上兰村内赶集一条街有较多的饭馆，质量参差不齐，需要擦亮眼睛。周一上午可赶集。"
+        }
+    ]
+}
