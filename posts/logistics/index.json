@@ -1,5 +1,5 @@
 {
-    "author": "凌超",
+    "author": "软软不硬",
     "lastModified": "2020年8月28日",
     "title": "快递详情",
     "content": [
@@ -41,11 +41,19 @@
         },
         {
             "type": "header",
-            "text": "顺丰、申通"
+            "text": "顺丰"
         },
         {
             "type": "paragraph",
             "text": "红房子9号楼。"
+        },
+        {
+            "type": "header",
+            "text": "申通"
+        },
+        {
+            "type": "paragraph",
+            "text": "红房子9号楼或近邻宝。"
         },
         {
             "type": "header",
