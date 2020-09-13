@@ -1,6 +1,6 @@
 {
-    "author": "软软不硬",
-    "lastModified": "2020年8月28日",
+    "author": "软软不硬、Dreace",
+    "lastModified": "2020年9月13日",
     "title": "快递详情",
     "content": [
         {
@@ -13,7 +13,7 @@
         },
         {
             "type": "paragraph",
-            "text": "学校北环游泳馆斜对面近邻宝，24小时自助取件，最长存放时间3天，超时将有工作人员提醒到近邻宝办公区取件。"
+            "text": "学校北环游泳馆斜对面近邻宝，24小时自助取件，最长存放时间3天，超时将有工作人员提醒到近邻宝办公区取件。可以关注近邻宝公众号使用微信一键开柜，或者输入密码开柜。"
         },
         {
             "type": "header",
@@ -24,12 +24,24 @@
             "text": "校医院对面，近邻宝快递柜旁"
         },
         {
+            "type": "map",
+            "text": "京东和近邻宝",
+            "buildingType": 4,
+            "buildingId": 0
+        },
+        {
             "type": "header",
             "text": "中通、韵达"
         },
         {
             "type": "paragraph",
             "text": "游泳馆东侧停车场内。"
+        },
+        {
+            "type": "map",
+            "text": "中通和韵达",
+            "buildingType": 4,
+            "buildingId": 2
         },
         {
             "type": "header",
@@ -48,12 +60,30 @@
             "text": "红房子9号楼。"
         },
         {
+            "type": "map",
+            "text": "顺丰",
+            "buildingType": 4,
+            "buildingId": 3
+        },
+        {
             "type": "header",
             "text": "申通"
         },
         {
             "type": "paragraph",
             "text": "红房子9号楼或近邻宝。"
+        },
+        {
+            "type": "map",
+            "text": "申通（红房子）",
+            "buildingType": 4,
+            "buildingId": 4
+        },
+        {
+            "type": "map",
+            "text": "申通（近邻宝）",
+            "buildingType": 4,
+            "buildingId": 0
         },
         {
             "type": "header",
@@ -70,6 +100,20 @@
         {
             "type": "paragraph",
             "text": "二道门货车内，快递员送完即离开。"
+        },
+        {
+            "type": "header",
+            "text": "EMS"
+        },
+        {
+            "type": "paragraph",
+            "text": "科艺苑东侧。"
+        },
+        {
+            "type": "map",
+            "text": "EMS",
+            "buildingType": 4,
+            "buildingId": 1
         }
     ]
 }
