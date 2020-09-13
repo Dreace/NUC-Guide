@@ -52,6 +52,12 @@
             "text": "中北酒店楼下百业一旁超市角落中。"
         },
         {
+            "type": "map",
+            "text": "百世",
+            "buildingType": 4,
+            "buildingId": 5
+        },
+        {
             "type": "header",
             "text": "顺丰"
         },
@@ -95,19 +101,19 @@
         },
         {
             "type": "header",
-            "text": "德邦物流"
+            "text": "德邦快递"
         },
         {
             "type": "paragraph",
-            "text": "二道门货车内，快递员送完即离开。"
+            "text": "疫情封锁期间，快递员会电话联系到1.5道门取件（一道门旁小铁门）。"
         },
         {
             "type": "header",
-            "text": "EMS"
+            "text": "EMS（邮政）"
         },
         {
             "type": "paragraph",
-            "text": "科艺苑东侧。"
+            "text": "科艺苑东侧。三只松鼠、Apple 等常使用 EMS 发件。"
         },
         {
             "type": "map",
