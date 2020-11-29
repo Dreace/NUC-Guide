@@ -35,13 +35,7 @@
         },
         {
             "type": "paragraph",
-            "text": "游泳馆东侧停车场内。"
-        },
-        {
-            "type": "map",
-            "text": "中通",
-            "buildingType": 4,
-            "buildingId": 2
+            "text": "游泳馆对面。"
         },
         {
             "type": "header",
@@ -71,13 +65,7 @@
         },
         {
             "type": "paragraph",
-            "text": "红房子9号楼。"
-        },
-        {
-            "type": "map",
-            "text": "顺丰",
-            "buildingType": 4,
-            "buildingId": 3
+            "text": "一道门外。"
         },
         {
             "type": "header",
@@ -135,7 +123,7 @@
         },
         {
             "type": "paragraph",
-            "text": "紧邻科艺苑红房子第一排。"
+            "text": "游泳馆对面。"
         }
     ]
 }
