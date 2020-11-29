@@ -38,18 +38,18 @@
             "text": "游泳馆东侧停车场内。"
         },
         {
+            "type": "map",
+            "text": "中通",
+            "buildingType": 4,
+            "buildingId": 2
+        },
+        {
             "type": "header",
             "text": "韵达"
         },
         {
             "type": "paragraph",
             "text": "游泳馆对面小树林快递柜中。"
-        },
-        {
-            "type": "map",
-            "text": "中通",
-            "buildingType": 4,
-            "buildingId": 2
         },
         {
             "type": "header",
