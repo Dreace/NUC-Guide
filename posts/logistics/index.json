@@ -31,11 +31,19 @@
         },
         {
             "type": "header",
-            "text": "中通、韵达"
+            "text": "中通"
         },
         {
             "type": "paragraph",
             "text": "游泳馆东侧停车场内。"
+        },
+        {
+            "type": "header",
+            "text": "韵达"
+        },
+        {
+            "type": "paragraph",
+            "text": "游泳馆对面小树林快递柜中。"
         },
         {
             "type": "map",
@@ -120,6 +128,14 @@
             "text": "EMS",
             "buildingType": 4,
             "buildingId": 1
+        },
+        {
+            "type": "header",
+            "text": "天天快递"
+        },
+        {
+            "type": "paragraph",
+            "text": "紧邻科艺苑红房子第一排。"
         }
     ]
 }
