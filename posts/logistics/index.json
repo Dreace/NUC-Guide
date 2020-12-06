@@ -1,6 +1,6 @@
 {
     "author": "软软不硬、Dreace",
-    "lastModified": "2020年9月13日",
+    "lastModified": "2020年12月6日",
     "title": "快递详情",
     "content": [
         {
@@ -17,6 +17,14 @@
         },
         {
             "type": "header",
+            "text": "韵达，中通，天天"
+        },
+        {
+            "type": "paragraph",
+            "text": "游泳馆对面小树林快递柜中。"
+        },
+        {
+            "type": "header",
             "text": "京东"
         },
         {
@@ -28,14 +36,6 @@
             "text": "京东和近邻宝",
             "buildingType": 4,
             "buildingId": 0
-        },
-        {
-            "type": "header",
-            "text": "韵达，中通，天天"
-        },
-        {
-            "type": "paragraph",
-            "text": "游泳馆对面小树林快递柜中。"
         },
         {
             "type": "header",
