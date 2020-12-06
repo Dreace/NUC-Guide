@@ -31,15 +31,7 @@
         },
         {
             "type": "header",
-            "text": "中通"
-        },
-        {
-            "type": "paragraph",
-            "text": "游泳馆对面。"
-        },
-        {
-            "type": "header",
-            "text": "韵达"
+            "text": "韵达，中通，天天"
         },
         {
             "type": "paragraph",
@@ -65,7 +57,7 @@
         },
         {
             "type": "paragraph",
-            "text": "一道门外。"
+            "text": "1.5道门外。"
         },
         {
             "type": "header",
@@ -116,14 +108,6 @@
             "text": "EMS",
             "buildingType": 4,
             "buildingId": 1
-        },
-        {
-            "type": "header",
-            "text": "天天快递"
-        },
-        {
-            "type": "paragraph",
-            "text": "游泳馆对面。"
         }
     ]
 }
